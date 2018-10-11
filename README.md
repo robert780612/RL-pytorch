@@ -1,11 +1,12 @@
 # Reinforcement learning Pytorch 
-An pytorch implementation of RL algorithm
+A pytorch implementation of RL algorithm
 
 
 ## Requirement
 * Python 3.6
 * Pytorch 0.4.1
 * Gym 0.10.5
+* OpenCV 3.4.0
 
 
 ## Reference
