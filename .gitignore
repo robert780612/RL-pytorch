@@ -56,3 +56,16 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# gym & pytorch
+*.pt
+*.png
+*.mp4
+*.iml
+*.xml
+*.ods
+*.xlsx
+*.xml
+*.json
+
+
